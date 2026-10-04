@@ -1,0 +1,25 @@
+{
+    "MLP": {
+        "parameters": 236682,
+        "training_time_seconds": 40.33,
+        "test_accuracy": 0.9825000166893005,
+        "test_loss": 0.061510950326919556,
+        "macro_f1": 0.9824,
+        "incorrect_predictions": 175
+    },
+    "CNN": {
+        "parameters": 289514,
+        "training_time_seconds": 117.34,
+        "test_accuracy": 0.996,
+        "test_loss": 0.013715,
+        "macro_f1": 0.996,
+        "incorrect_predictions": 40
+    },
+    "cnn_vs_mlp": {
+        "accuracy_difference": 0.01349998331069946,
+        "additional_correct_predictions": 135,
+        "error_reduction_percentage": 77.14285714285715,
+        "macro_f1_difference": 0.013599999999999945,
+        "test_loss_reduction_percentage": 77.70315703609315
+    }
+}

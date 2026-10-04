@@ -1,0 +1,7 @@
+Metric,MLP,CNN
+Parameters,236682.0,289514.0
+Training Time (seconds),40.33,117.34
+Test Accuracy,0.9825000166893005,0.996
+Test Loss,0.061510950326919556,0.013715
+Macro F1-Score,0.9824,0.996
+Incorrect Predictions,175.0,40.0

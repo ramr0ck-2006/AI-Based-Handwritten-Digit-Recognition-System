@@ -1,0 +1,12 @@
+{
+    "model": "Handwritten_Digit_MLP",
+    "parameters": 236682,
+    "test_samples": 10000,
+    "test_loss": 0.061510950326919556,
+    "test_accuracy": 0.9825000166893005,
+    "independent_accuracy": 0.9825,
+    "correct_predictions": 9825,
+    "incorrect_predictions": 175,
+    "mean_confidence": 0.9874270558357239,
+    "median_confidence": 0.9999747276306152
+}
