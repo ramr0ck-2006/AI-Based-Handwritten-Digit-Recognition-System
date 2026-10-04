@@ -1,0 +1,24 @@
+{
+    "model": "Handwritten_Digit_CNN",
+    "test_samples": 10000,
+    "test_loss": 0.013715486042201519,
+    "test_accuracy": 0.9959999918937683,
+    "independent_accuracy": 0.996,
+    "best_validation_accuracy": 0.9943333268165588,
+    "correct_predictions": 9960,
+    "incorrect_predictions": 40,
+    "mean_prediction_confidence": 0.9970098733901978,
+    "median_prediction_confidence": 0.9999980926513672,
+    "per_digit_accuracy": {
+        "0": 0.9989795918367347,
+        "1": 0.9973568281938326,
+        "2": 0.9951550387596899,
+        "3": 0.999009900990099,
+        "4": 0.9979633401221996,
+        "5": 0.992152466367713,
+        "6": 0.9926931106471816,
+        "7": 0.9970817120622568,
+        "8": 0.997946611909651,
+        "9": 0.9910802775024777
+    }
+}
